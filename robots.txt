@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alpkbpc.cn/sitemap.xml
